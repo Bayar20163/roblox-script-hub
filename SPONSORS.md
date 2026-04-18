@@ -11,4 +11,4 @@
 ### Silver Tier
 - Benefits: ... 
 
-For more information, please contact us at [email@example.com]
+For more information, please contact us at [bayar.dijwar.ibrahim@gmail.com]
