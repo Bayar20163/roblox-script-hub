@@ -3,7 +3,7 @@
 Welcome to the **Roblox Script Hub**! This is your comprehensive resource for everything related to Roblox scripting and development.
 
 ### Website Link
-[Visit the website](https://digital-asset-hub--dijwaribrahim02.replit.app/sell)
+[Visit the website](https://digital-asset-hub--dijwaribrahim02.replit.app/)
 
 ### Marketplace
 Our marketplace is a vibrant platform where developers can buy and sell scripts, plugins, and other tools that enhance the Roblox experience. 
